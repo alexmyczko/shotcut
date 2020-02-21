@@ -9,6 +9,8 @@
 
 Binaries are regularly built and are available at https://www.shotcut.org, on the Download section.
 
+Also officially from distributions: https://repology.org/project/shotcut/versions 
+
 ## Contributors
 
 - Dan Dennedy <<http://www.dennedy.org>> : main author
